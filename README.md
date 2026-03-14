@@ -13,11 +13,11 @@ Each subfolder contains a standalone project with its own README and structure.�
 | [`mysql-projects`](mysql-projects/) | MySQL database assignments and projects, including schema design and SQL queries. | MySQL, SQL |
 | [`java-projects`](java-projects/) | Solutions to Java programming exercises from various chapters. | Java |
 | [`media-stack`](https://github.com/MajorSTEM/media-stack-clean) | Self‑hosted media orchestration stack with API‑first design and Docker Compose. | Node.js, Express, Docker |
-| (**more coming soon**) | | |
+| [`StormPulse`](https://github.com/MajorSTEM/StormPulse) | Real-time severe weather damage mapping platform fusing NWS alerts, SPC storm reports, and inferred tornado/wind/flood impact corridors onto an interactive dark map. | Python, FastAPI, Next.js, TypeScript, MapLibre GL JS, SQLite |
 
 ## Professional Value
-- Demonstrates end‑to‑end architecture design (API, database, containerization).
-- Highlights proficiency in multiple languages (Java, SQL, JavaScript).
+- Demonstrates end‑to‑end architecture design (API, database, containerization, geospatial data).
+- Highlights proficiency in multiple languages (Java, SQL, JavaScript, TypeScript, Python).
 - Shows attention to documentation, version control, and clean project organization.
 
 ## How to Navigate
